@@ -313,7 +313,6 @@ canvaStyle = """body{
     .thead5 th,
     .thead6 th,
     .thead7 th{
-        padding: 10px;
         text-align: center;
     }
 
@@ -333,16 +332,6 @@ canvaStyle = """body{
         margin-left: 10px;
         width: 20px;
         height: auto;
-    }
-
-    .tdata1 td,
-    .tdata2 td,
-    .tdata3 td,
-    .tdata4 td,
-    .tdata5 td,
-    .tdata6 td,
-    .tdata7 td{
-        padding: 10px;
     }
 
     .tdata1 td{
