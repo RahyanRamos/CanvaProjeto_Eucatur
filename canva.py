@@ -196,6 +196,8 @@ def tableGeral():
     """
     return htmlGeral
 
+
+
 canvaStyle = """body{
         font-family: Arial, sans-serif;
         margin: 0;
